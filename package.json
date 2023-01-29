@@ -11,13 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/Jasonccfu/employee-tracker.git"
   },
-  "author": "",
+  "author": "Jason Chen",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Jasonccfu/employee-tracker/issues"
   },
   "homepage": "https://github.com/Jasonccfu/employee-tracker#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
     "express": "^4.18.2",
     "inquirer": "^8.2.4",
     "mysql2": "^2.2.5"
