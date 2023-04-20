@@ -15,11 +15,12 @@ It's a powerful tool for review or edit your SQL database.
 
 ## Installation
 
-`npm install --s`
+`npm install`
+`node index.js`
 
 ## Usage
 
-[Walkthrough Video](https://watch.screencastify.com/)
+[Walkthrough Video](https://watch.screencastify.com/v/YGPfpqLocMKmsYHsjQbU)
 
 ## License
 
